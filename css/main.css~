@@ -1,0 +1,12 @@
+/* index page css goes here */
+
+.main-body{
+
+	position: absolute;
+	left: 250px;
+	width : 80%;
+}
+
+.jumbotron-style{
+	background:rgba(190,190,190,0.8);
+}

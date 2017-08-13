@@ -1,0 +1,33 @@
+{
+  "name": "webpage-karma-dependencies",
+  "version": "1.0.0",
+  "description": "these dependencies are the ones used to write unit tests for the webpage code",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiran3807/kiran3807.github.io.git"
+  },
+  "author": "kiran sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiran3807/kiran3807.github.io/issues"
+  },
+  "homepage": "https://github.com/kiran3807/kiran3807.github.io#readme",
+  "devDependencies": {
+    "first": "0.0.3",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.16",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-ie-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6",
+    "karma-phantomjs-launcher": "^0.2.2",
+    "phantomjs": "^1.9.19"
+  }
+}
